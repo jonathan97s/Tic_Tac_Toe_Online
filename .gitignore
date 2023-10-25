@@ -1,0 +1,38 @@
+# Java
+*.class
+*.jar
+
+# Compiled source #
+target/
+bin/
+gen/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+
+# Maven
+target/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log.*
